@@ -25,5 +25,6 @@ Disclaimer: There's a lot of stuff in here that is not well-documented. Intended
  
 ## Data source
 
-The data for this project can be found at the following link: 
+The data for this project can be found at the following link: [Google Drive](https://drive.google.com/drive/folders/1Q6RCjrUE4Zn1V0MlRjrrsNuI_4epd3db?usp=sharing)
+
 There are .csv files containing projection data for offensive players and defensive teams for every week of the 2024 season. There is also a large csv file containing usage data for some Draftkings contests in the 2024 season.
